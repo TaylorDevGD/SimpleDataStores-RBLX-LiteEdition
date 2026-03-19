@@ -2,9 +2,10 @@
 Hello! Thanks for choosing TaylorDev_RBLX's SimpleDataStores module. The easiest way to save and retrieve all diffrent types of player data! This package is designed for people who need an easy and effortless way to set up and manage player data. This is the lite version which is designed for people who are less advanced while not limiting advanced features. The pro edition is coming soon!
 
 ---
+### Quick and Reliable Documentations:
+This package has an easy to use documentations page to help you understand the package capabilities, avoid problems and get the full advanced data stores experience. https://taylordev.gitbook.io/simpledatastores-rblx
 
-### What is this package?
-SimpleDataStores is a data stores package that aims on making player data stores easier and more efficient to handle without needing to understand how to code. SimpleDataStores has both standard and advanced capabilites from being able to set up and save leaderstats (public) and hidden player data from values to folders within seconds to being able to attach a Module Script to redirect the saving and retrieving processes. All within one package, and that's not even half of it!
+If you run into a problem, contact me on the Roblox DevForums: https://devforum.roblox.com/t/simpledatastores-developer-package-efficiently-simplifying-datastores/3261894
 
 ### How to Set Up:
 1. Download either the package (Additional ways to do so: [Creator Store Model](https://create.roblox.com/store/asset/102645430267245/SimpleDataStores-Package-V7) or [Documentations Latest Versions](https://taylordev.gitbook.io/simpledatastores-rblx/newest-fix/latest-version) )
